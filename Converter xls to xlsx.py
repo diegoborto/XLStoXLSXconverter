@@ -4,8 +4,8 @@ import os
 import tkinter as tk
 from tkinter import filedialog
 
-folder_path = r'E:\Users\bortolind\onedrive - Danieli\documents\Per python\TUTTI'
-filename = "HourlyAvg_11_03_03.xls"
+folder_path = r'E:\'
+filename = "name.xls"
 case = 0
 
 def test_xls_file(xls_file, print_rep):
